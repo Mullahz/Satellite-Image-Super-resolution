@@ -14,6 +14,7 @@ H. U. Mullah and B. Deka, "Parallel Multispectral Image Super-resolution Based o
 J. Yang et al. Image super-resolution as sparse representation of raw image patches. CVPR 2008.
 
 ================================================================
+
 main.m: code for image super-resolution based on sparse sparse representaion
 
 1. The  code is for upscaling factor of 2. For other magnification factors, change the upscale value. Note the code is a little different from what presented in the paper. 
