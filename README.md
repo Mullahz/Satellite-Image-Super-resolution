@@ -8,7 +8,9 @@ Reference:
 ================================================================
 
 Mullah H.U., Deka B. (2018) A Fast Satellite Image Super-Resolution Technique Using Multicore Processing. In: Hybrid Intelligent Systems. HIS 2017. Advances in Intelligent Systems and Computing, vol 734. Springer, Cham. 
+
 H. U. Mullah and B. Deka, "Parallel Multispectral Image Super-resolution Based on Sparse Representations," 2019 2nd International Conference on Innovations in Electronics, Signal Processing and Communication (IESC), IEEE
+
 J. Yang et al. Image super-resolution as sparse representation of raw image patches. CVPR 2008.
 
 ================================================================
