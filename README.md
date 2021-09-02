@@ -1,4 +1,4 @@
-# Single-Image-Super-resolution
+# Sattelite-Image-Super-resolution
 *****************************************************************
 * Demo Codes For Satellite Image Super-resolution Based on K-SVD 
 Dictionary Training and Patch-wise Sparse Coding          
