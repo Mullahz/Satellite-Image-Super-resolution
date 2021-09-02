@@ -2,7 +2,7 @@ clc;
 close all;
 clear all;
 
-% Super-resolution Code by CVIP LAB, Dept of ECE, Tezpur University
+% Super-resolution Code by Helal U Mullah, CVIP LAB, Dept of ECE, Tezpur University
 p = pwd;
 addpath(fullfile(p, 'ksvdbox')) % K-SVD dictionary training algorithm
 addpath(fullfile(p, 'ompbox')) % Orthogonal Matching Pursuit algorithm
